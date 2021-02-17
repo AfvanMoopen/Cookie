@@ -1,0 +1,21 @@
+{
+  "name": "cookie",
+  "description": "A tiny JavaScript library that simplifies cookies.",
+  "main": "dist/cookie.umd.js",
+  "authors": [
+    "author-test"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cookie"
+  ],
+  "homepage": "",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
